@@ -7,4 +7,4 @@
 <br>**LANGKAH-LANGKAH PERKTIKUM**
 <br> Seperti biasa kalian buka Visual Studio Code Dileptop kalian dan apa bila tidak mempuyai Visual Studio Code, kalian bisa download di internet dan juga bisa memakai code editor yang lain.
 
-<br> oke langkah pertama kalian harus membuat dokumen HTML, dengan nama ***Dokumen.html***
+<br> oke langkah pertama kalian harus membuat dokumen HTML, dengan nama <u>***Dokumen.html***</u>
