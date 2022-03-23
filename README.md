@@ -30,5 +30,6 @@
 <br>![p](gambar/foto9.png)
 <br>Nah setelah itu kalian run, dan kalian buka kembali digoogle crome untuk melihat berubahannya
 <br>![p](gambar/foto10.png)
-
-
+<br>
+<br>5. Dan langkah terakhir kalian menambahkan ***CSS Selector*** menggunakan "ID" dan "Class Selector". Pada file **style_eksternal.css**, tambahkan kode berikut.
+<br>![p](gambar/foto11.png)
