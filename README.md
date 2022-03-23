@@ -13,13 +13,17 @@
 <br>![p](gambar/foto2.png)
 <br>naah barulah kalian run, lalu kalian buka digoogle Crome atau dimicrosoft edge dan hasilnya seperti ini:
 <br>![p](gambar/foto3.png)
-
-<br>2. dan langkah berikutnya kalian ***Mendeklarasikan CSS Internal*** caranya kalian menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
+<br>
+<br>2. dan langkah berikutnya kalian mendeklarasikan ***CSS Internal*** caranya kalian menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 <br>![p](gambar/foto4.png)
 <br>Selanjutnya simpan perubahan yang ada, dan lakukan run, setelah itu kalian buka digoogle crome untuk melihat hasilnya.
 <br>![p](gambar/foto5.png)
-
-<br>3. dan langkah selanjutnya kalian ***Menambahkan Inline CSS*** caranya kalian tambahkan deklarasi inline CSS pada tag "p", seperti gambar berikut:
+<br>
+<br>3. dan langkah selanjutnya kalian menambahkan ***Inline CSS*** caranya kalian tambahkan deklarasi inline CSS pada tag "p", seperti gambar berikut:
 <br>![p](gambar/foto6.png)
 <br>seperti biasa simpan kembali dan kalian run lalu kalian buka kembali digoogle crome untuk melihat perubahannya.
 <br>![p](gambar/foto7.png)
+<br>
+<br>4. dan langkah berikutnya kalian membuat ***CSS eksternal*** dengan cara membuatlah file baru dengan nama **style_eksternal.css** kemudian buatlah deklarasi CSS seperti gambar berikut:
+
+
