@@ -19,4 +19,4 @@
 <br>Selanjutnya simpan perubahan yang ada, dan lakukan run, setelah itu kalian buka digoogle crome untuk melihat hasilnya.
 <br>![p](gambar/foto5.png)
 
-<br>3. dan langkah selanjutnya kalian ***Menambahkan Inline CSS*** caranya kalian tambahkan deklarasi inline CSS pada tag "<p>", seperti gambar berikut:
+<br>3. dan langkah selanjutnya kalian ***Menambahkan Inline CSS*** caranya kalian tambahkan deklarasi inline CSS pada tag "p", seperti gambar berikut:
