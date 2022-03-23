@@ -29,5 +29,6 @@
 <br>Sebelum dirun kalian tambahkan tag "link" untuk merujuk file css yang sudah dibuat pada bagian "head" seperti gambar dibwah ini
 <br>![p](gambar/foto9.png)
 <br>Nah setelah itu kalian run, dan kalian buka kembali digoogle crome untuk melihat berubahannya
+<br>![p](gambar/foto10.png)
 
 
