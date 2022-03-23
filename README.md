@@ -15,3 +15,4 @@
 <br>![p](gambar/foto3.png)
 
 <br>2. dan langkah berikutnya kalian ***Mendeklarasikan CSS Internal*** caranya kalian menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
+![p](gambar/foto4.png)
