@@ -20,4 +20,6 @@
 <br>![p](gambar/foto5.png)
 
 <br>3. dan langkah selanjutnya kalian ***Menambahkan Inline CSS*** caranya kalian tambahkan deklarasi inline CSS pada tag "p", seperti gambar berikut:
-![p](gambar/foto6.png)
+<br>![p](gambar/foto6.png)
+<br>seperti biasa simpan kembali dan kalian run lalu kalian buka kembali digoogle crome untuk melihat perubahannya.
+<br>![p](gambar/foto7.png)
