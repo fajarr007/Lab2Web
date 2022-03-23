@@ -36,4 +36,4 @@
 <br>Kemudian simpan kembali lalu kalian run, dan buka digoogle crome kembali untuk melihat perubahannya.
 <br>![p](gambar/foto12.png)
 <br>
-<br><p style="text-align: center;">sekian sampai disini pembahasan mengenai peraktikum CSS dasar, saya ucapkan terimakasi banyak, semoga bermanfaat untuk teman-teman semua. :,-]=>
+<br><p style="text-align: center;">sekian sampai disini pembahasan mengenai peraktikum CSS dasar, saya ucapkan terimakasi banyak, semoga bermanfaat untuk teman-teman semua.</p>
