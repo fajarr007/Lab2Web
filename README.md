@@ -26,6 +26,6 @@
 <br>
 <br>4. dan langkah berikutnya kalian membuat ***CSS eksternal*** dengan cara membuatlah file baru dengan nama **style_eksternal.css** kemudian buatlah deklarasi CSS seperti gambar berikut:
 <br>![p](gambar/foto8.png)
-<br>sebelum dirun kalian tambahkan tag --link-- untuk merujuk file css yang sudah dibuat pada bagian --head--
+<br>sebelum dirun kalian tambahkan tag ~~link~~ untuk merujuk file css yang sudah dibuat pada bagian ~~head~~
 
 
