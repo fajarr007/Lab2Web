@@ -16,5 +16,5 @@
 
 <br>2. dan langkah berikutnya kalian ***Mendeklarasikan CSS Internal*** caranya kalian menambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen.
 <br>![p](gambar/foto4.png)
-<br>Selanjutnya simpan perubahan yang ada, dan lakukan run, setelah kalian buka digoogle crome untuk melihat hasilnya.
+<br>Selanjutnya simpan perubahan yang ada, dan lakukan run, setelah itu kalian buka digoogle crome untuk melihat hasilnya.
 <br>![p](gambar/foto5.png)
