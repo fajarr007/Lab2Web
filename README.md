@@ -33,3 +33,5 @@
 <br>
 <br>5. Dan langkah terakhir kalian menambahkan ***CSS Selector*** menggunakan "ID" dan "Class Selector". Pada file **style_eksternal.css**, tambahkan kode berikut.
 <br>![p](gambar/foto11.png)
+<br>Kemudian simpan kembali lalu kalian run, dan buka digoogle crome kembali untuk melihat perubahannya.
+<br>![p](gambar/foto12.png)
