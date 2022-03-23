@@ -25,5 +25,6 @@
 <br>![p](gambar/foto7.png)
 <br>
 <br>4. dan langkah berikutnya kalian membuat ***CSS eksternal*** dengan cara membuatlah file baru dengan nama **style_eksternal.css** kemudian buatlah deklarasi CSS seperti gambar berikut:
+<br>![p](gambar/foto8.png)
 
 
